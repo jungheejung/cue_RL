@@ -32,6 +32,7 @@ Folder structure
 ### RL code 
 * Open AI Deep RL: https://spinningup.openai.com/
 * DI engine: https://di-engine-docs.readthedocs.io/en/latest/
+* Hugging face: https://huggingface.co/models?pipeline_tag=reinforcement-learning
 
 ### Videos lectures:
 * [OpenAI Spinning Up in Deep RL Workshop](https://www.youtube.com/watch?v=fdY7dt3ijgY)
