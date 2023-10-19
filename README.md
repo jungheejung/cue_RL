@@ -24,6 +24,7 @@ Folder structure
 * https://github.com/aikorea/awesome-rl
 * https://rl-book.com/
 * https://github.com/dennybritz/reinforcement-learning
+* https://compneuro.neuromatch.io/tutorials/W3D4_ReinforcementLearning/chapter_title.html
 
 ### RL cheatsheet
 * https://github.com/FrancescoSaverioZuppichini/Reinforcement-Learning-Cheat-Sheet/blob/master/rl_cheatsheet.pdf
